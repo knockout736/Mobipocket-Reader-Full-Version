@@ -273,4 +273,4 @@ This repository serves as the official landing page for Mobipocket Reader. The s
 **Get the most recent version of Mobipocket Reader today!**
 
 ---
-**Last updated:** 2026-10-09 22:16:54 UTC
+**Last updated:** 2026-10-10 02:05:08 UTC
